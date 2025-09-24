@@ -1,22 +1,23 @@
-### AL ###
-#Template for AL projects for Dynamics 365 Business Central
-#launch.json folder
-.vscode/
-#Cache folder
-.alcache/
-#Symbols folder
-.alpackages/
-#Snapshots folder
-.snapshots/
-#Testing Output folder
-.output/
-#Extension App-file
-*.app
-#Rapid Application Development File
-rad.json
-#Translation Base-file
-*.g.xlf
-#License-file
-*.flf
-#Test results file
-TestResults.xml
+<html lang="pt-BR">
+
+<head>
+<link rel="stylesheet" href="stiles.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link 
+href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght00,300;0,400,;0,500;0,600;0,700;1,300;1,400;1,500;
+rel="stylesheet">
+<title>Guiminamfflix</title>
+</head>
+
+<body>
+<header>GUIMINAMFLIX</header>
+
+<section class="chamada">
+<div class="chamada-texto">
+<h1> ATRAVÉS DO ARANHAVERSO</h1>
+<p>#homem-aranha</p>
+</div>
+
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/
